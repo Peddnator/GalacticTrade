@@ -1,7 +1,7 @@
 # GalacticTrade
 
 
-![./vaultboy.jpg](Vault boy)
+![vaultboy](vaultboy.jpg)
 
 This is a  Fictional Trade HUB.
 
