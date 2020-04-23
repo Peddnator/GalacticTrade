@@ -1,2 +1,5 @@
 # GalacticTrade
-This is a a Test!
+
+This is a  Fictional Trade HUB.
+
+Made to practicing Web Devolopment.
